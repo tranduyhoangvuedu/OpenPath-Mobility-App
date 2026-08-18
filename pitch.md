@@ -1,4 +1,4 @@
-**OpenPath: Breaking Down Mobility Barriers **
+**OpenPath: Breaking Down Mobility Barriers**
 
 **The Problem**: Getting around the city is ridiculously stressful for anyone with a wheelchair, crutches, or just general mobility issues. Standard map apps like Google Maps are great for cars, but they don't tell you if a sidewalk is blocked, if a subway elevator is broken, or if a restaurant actually has a wheelchair ramp. People end up stuck or forced to take massive detours.
 
