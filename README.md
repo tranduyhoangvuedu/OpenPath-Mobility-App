@@ -8,5 +8,8 @@ This project was developed as a comprehensive business pitch and revenue model. 
 
 ## Repository Assets
 Listed in the folders
+
+* **[Marketing Poster](https://canva.link/8epvc69fttbpxwl)** - Visual branding and core messaging.
+
 ## Next Steps
 Future phases include moving from business ideation to UI/UX wireframing, and eventually building the backend infrastructure (testing database integration) for community-sourced map data.
